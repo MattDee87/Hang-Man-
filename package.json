@@ -1,0 +1,17 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.17.1"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "<Matthew De Nero>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<MattDee87>/hangman.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
